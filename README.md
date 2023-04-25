@@ -1,5 +1,5 @@
 # Personagens Repo
 
-![./Venom.png](Imagem Genérica) .
+![Imagem Genérica](./Venom.png)
 
 Este repositório serve de exemplo para o curso de Git e Github.
